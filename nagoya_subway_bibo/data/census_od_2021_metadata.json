@@ -1,0 +1,12 @@
+{
+  "source_title": "第13回大都市交通センサス 初乗り・最終降車駅間移動人員表",
+  "source_url": "https://www.e-stat.go.jp/stat-search/file-download?fileKind=0&statInfId=000040443413",
+  "statInfId": "000040443413",
+  "source_year": 2021,
+  "retrieved_date": "2026-08-07",
+  "sheet": "中京圏",
+  "operator_filter": "名古屋市交通局",
+  "suppressed_cell_policy": "'*' replaced with 0.0",
+  "scope_limitation": "Both endpoints are on the line; the actual route and transfers are not verified.",
+  "row_count": 2129
+}
